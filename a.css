@@ -1,0 +1,38 @@
+body {
+#color: white;
+background-color: #FFD773;
+background-image: url("b585073fb70d4ba6dff6f7e480b1aee5.jpg") ;
+background-size: cover;
+background - attachment: fixed;
+}
+H1 {
+  color: #000000;
+  font-size: 200%;
+  font-family: Arial, Verdana, sans-serif;
+  text-align: center; 
+ background:  url("m.jpg") no-repeat fixed right top;
+}
+ 
+}
+P {
+  padding-left: 20px;
+}
+#first {
+color: white;
+background: black;
+}
+.A1 {
+background: red;
+color: yellow;
+font-size: 120%;
+}
+h2, h3, p {
+color: red;
+}
+* {
+color: white;
+margin: 5;
+padding: 2;
+font-size: 20;
+font-style: Arial;
+}
